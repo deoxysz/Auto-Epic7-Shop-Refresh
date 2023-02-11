@@ -1,7 +1,11 @@
 # E7ShopRefresher
 
-## Hello I made this auto refresh bot for me and some of my friends, but anyone can use it,  I also want to make it an executable to make it easier to people to use it
+## Hello I made this bot for me and some of my friends, but anyone can use it,  I also want to make it an executable to make it easier to people to use it
 
+**What it does:**
+- It refresh the shop and buy covenants and mystics automatically
+- It keeps in you track of how many refreshed you made and how many mystics and covenats it bought
+- You set up how many skystones you wish to use
 
 **How to use:**
 - Download and Install python
@@ -18,10 +22,10 @@
 **Tested emulators:**
 
 
--Works on: Bluestacks
+- Works on: Bluestacks
 
 
--Does not work on: MuMu Player
+- Does not work on: MuMu Player
 
 
 If you still have problems after installing the requirements, try installing them manually:
