@@ -1,6 +1,6 @@
 # E7ShopRefresher
 
-## Hello I made this bot for me and some of my friends, but anyone can use it,  I also want to make it an executable to make it easier to people to use it
+## Hello I made this bot for me and some of my friends, but anyone can use it,  I also want to make it an executable to make it easier for people to use it
 
 **What it does:**
 - It refresh the shop and buy covenants and mystics automatically
